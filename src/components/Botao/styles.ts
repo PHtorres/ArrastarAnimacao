@@ -9,6 +9,6 @@ export const Container = styled.TouchableOpacity`
 `;
 
 export const TextoBotao = styled.Text`
-color:#fff;
+color:#ff7;
 font-size:20px;
 `;
