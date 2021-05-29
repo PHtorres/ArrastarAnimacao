@@ -5,7 +5,7 @@ import { Container, TextoBotao } from './styles';
 const Botao: React.FC = () => {
   return (
       <Container>
-          <TextoBotao>Excluir</TextoBotao>
+          <TextoBotao>Excluir meu amigo</TextoBotao>
       </Container>
   );
 }
