@@ -23,7 +23,7 @@ const AreaPrimaria: React.FC = () => {
             }}
         >
             <Container>
-                <Texto>Minha area</Texto>
+                <Texto>Minha Area</Texto>
             </Container>
         </Swipeable>
     );
