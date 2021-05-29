@@ -15,6 +15,7 @@ const AreaPrimaria: React.FC = () => {
             )}
             onSwipeableClose={()=>{
                 Alert.alert('fechou');
+                Alert.alert('falhou novo modelo');
             }}
 
             onSwipeableOpen={()=>{
